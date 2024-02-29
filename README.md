@@ -1,5 +1,5 @@
 <h1 style="font-size: 50"; align="center">Hi 👋, I'm Paul!</h1>
-<h3 align="center">A passionate programming student from Lithuania!</h3>
+<h3 align="center">A passionate programmer from Lithuania!</h3>
 
 - 🌱 I’m currently learning **Python, SQL, SQlite, MySQL, HTML/CSS, Django, QT, Bootstrap and much more...**
 
