@@ -3,6 +3,6 @@
 
 <h3 align="center"> 🌱 I’m currently learning... all about data structures. </h3>
 
-<h3 align="center"> 📫 How to reach me **paulius.padrostis94@gmail.com** </h3>
+
 
 
